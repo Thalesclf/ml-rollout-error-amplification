@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated preprint."
+title: "ML Rollout Error Amplification"
+type: software
+authors:
+  - family-names: "Fava"
+    given-names: "Thales Coelho Leite"
+year: 2026
+license: MIT
+preferred-citation:
+  type: article
+  title: "From One-Step Errors to Long-Horizon Rollouts: Realized Error Amplification in Learned Dynamics"
+  authors:
+    - family-names: "Fava"
+      given-names: "Thales Coelho Leite"
+  year: 2026

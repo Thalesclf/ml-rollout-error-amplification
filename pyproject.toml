@@ -1,0 +1,12 @@
+[project]
+name = "ml-rollout-error-amplification"
+version = "0.1.0"
+description = "Machine-learning experiments for realized finite-time error amplification in learned dynamics."
+requires-python = ">=3.10"
+dependencies = ["numpy", "torch", "matplotlib"]
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
