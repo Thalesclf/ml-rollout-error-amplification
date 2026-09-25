@@ -10,7 +10,7 @@ The experiments treat rollout error as a forced finite-time propagation problem.
 
 The current study uses **Lorenz–96** with a **residual MLP surrogate** and analyzes worst-case transient growth, realized defect amplification, vector cancellation, spectral participation, and finite-amplitude perturbations.
 
-**Paper:** arXiv link will be added after the v1 upload.
+**Paper:** [Preprint PDF](https://drive.google.com/file/d/1v9PBKEqC5AF7bOLv_WuZmMh5_bIShL3Q/view?usp=sharing)
 
 ## Repository contents
 
@@ -162,8 +162,9 @@ A GitHub Actions workflow runs the smoke tests automatically on pushes and pull 
 
 ## Citation
 
-Please cite the associated preprint when it becomes public. The repository includes
-`CITATION.cff`; the arXiv identifier should be added after the v1 upload.
+The manuscript is currently available as a [preprint PDF](https://drive.google.com/file/d/1v9PBKEqC5AF7bOLv_WuZmMh5_bIShL3Q/view?usp=sharing).
+
+If you use this work, please cite the preprint. Formal citation metadata and the arXiv identifier will be added here once the manuscript is available on arXiv.
 
 ## License
 
