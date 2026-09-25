@@ -42,7 +42,7 @@ NumPy and Matplotlib are also required. Their exact versions were not supplied, 
 ## Installation
 
 ```bash
-git clone https://github.com/<YOUR-USERNAME>/ml-rollout-error-amplification.git
+git clone https://github.com/Thalesclf/ml-rollout-error-amplification.git
 cd ml-rollout-error-amplification
 
 python -m venv .venv
