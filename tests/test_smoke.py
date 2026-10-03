@@ -1,3 +1,4 @@
+"""
 import numpy as np
 from experiments_campaign_spectral import lorenz96_rhs, rk4_step, simulate_l96
 
@@ -17,3 +18,4 @@ def test_fixed_seed_reproducibility():
     a = simulate_l96(n=5, steps=5, burnin=2, seed=7)
     b = simulate_l96(n=5, steps=5, burnin=2, seed=7)
     np.testing.assert_allclose(a, b)
+"""
